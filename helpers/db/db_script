@@ -1,0 +1,4 @@
+#!/bin/bash
+
+psql -f ~/Desktop/diplomaprj/helpers/db/db_recreation.sql
+
